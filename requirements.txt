@@ -1,0 +1,5 @@
+ 
+autogen-agentchat
+google-generativeai
+pydantic
+streamlit
