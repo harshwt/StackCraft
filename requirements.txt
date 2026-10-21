@@ -1,5 +1,8 @@
- 
-autogen-agentchat
-google-generativeai
+groq
+python-dotenv
 pydantic
 streamlit
+fastapi
+uvicorn
+autogen-agentchat
+google-generativeai

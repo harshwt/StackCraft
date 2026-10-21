@@ -254,9 +254,9 @@ This demonstrates the conversion of AI-generated schemas into executable softwar
 
 ### Artificial Intelligence
 
-* Google Gemini
+* Groq / Google Gemini
 * Prompt Engineering
-* Agent-Based Workflows
+* Multi-Agent Orchestration
 
 ### Backend
 
@@ -329,7 +329,8 @@ pip install -r requirements.txt
 Create an environment file:
 
 ```env
-GEMINI_API_KEY=your_api_key
+GROQ_API_KEY=your_groq_api_key
+GROQ_MODEL=openai/gpt-oss-120b
 ```
 
 ---
